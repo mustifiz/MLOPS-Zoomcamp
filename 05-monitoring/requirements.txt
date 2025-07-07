@@ -1,0 +1,11 @@
+prefect
+tqdm
+requests
+joblib
+pyarrow
+psycopg-binary
+evidently
+pandas
+numpy
+scikit-learn
+jupyter
